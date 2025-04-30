@@ -7,6 +7,7 @@ These are the parts intended for this PCB:
 1 x SOIC-8 SMD 555 IC  NE555DR (555)
 1 x Potentiometer      5k Ohm  (POT)
 
+C3 is an optional bypass capacitor
 If you want a wider range for the firing rate, you can, for example, use a 470 Ohm resistor as R2 and a 10k Ohm potentiometer.
 
 
