@@ -10,4 +10,4 @@ If you like my project, you are welcome to donate some money or hardware to supp
 
 This project is a part of my [controller](https://www.multi-console-controller.com/) project and if you have ideas for improving this joystick, please contact me 🙂
 
-![CC BY NC SA 4.0](./images/cc-by-nc-sa-icon-border-200x72.png "CC BY NC SA 4.0")
+![CC BY NC SA 4.0](./Images/cc-by-nc-sa-icon-border-200x72.png "CC BY NC SA 4.0")
